@@ -1,0 +1,36 @@
+.body {
+    margin: 0;
+}
+
+header {
+    background: #ad2224; 
+    width: 100vw;
+    height: 800px;
+    padding: 20px;
+    
+}
+
+nav {
+    width: 100vw;
+    background: green;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+    box-sizing: border-box;
+
+}
+
+#logo-nav{
+    height: 90px;
+
+}
+
+#inicio {
+    background: red;
+}
+
+section {
+    background: rebeccapurple;
+}
